@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  workinprogress: false
+  filename: MyString
+  caption: MyString
+  description: MyText
+
+two:
+  workinprogress: false
+  filename: MyString
+  caption: MyString
+  description: MyText
